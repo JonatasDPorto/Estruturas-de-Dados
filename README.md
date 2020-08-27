@@ -1,2 +1,7 @@
-# Estruturas-de-Dados
-Implementações de algumas estruturas de dados.
+# Estruturas de Dados
+
+Estruturas de dados implementadas:
+
+[ArrayList](https://github.com/JonatasDPorto/Estruturas-de-Dados/tree/master/ListaArray)
+
+
